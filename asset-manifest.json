@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jamming/static/css/main.80fc2a5d.css",
-    "main.js": "/jamming/static/js/main.c5c7c3ab.js",
-    "static/js/787.370c659c.chunk.js": "/jamming/static/js/787.370c659c.chunk.js",
-    "static/media/background_jamming.jpeg": "/jamming/static/media/background_jamming.a0687f3fe6f1303a2d18.jpeg",
-    "index.html": "/jamming/index.html",
-    "main.80fc2a5d.css.map": "/jamming/static/css/main.80fc2a5d.css.map",
-    "main.c5c7c3ab.js.map": "/jamming/static/js/main.c5c7c3ab.js.map",
-    "787.370c659c.chunk.js.map": "/jamming/static/js/787.370c659c.chunk.js.map"
+    "main.css": "/spotify-playlist/static/css/main.38743e92.css",
+    "main.js": "/spotify-playlist/static/js/main.4c243a58.js",
+    "static/js/787.370c659c.chunk.js": "/spotify-playlist/static/js/787.370c659c.chunk.js",
+    "static/media/background_jamming.jpeg": "/spotify-playlist/static/media/background_jamming.a0687f3fe6f1303a2d18.jpeg",
+    "index.html": "/spotify-playlist/index.html",
+    "main.38743e92.css.map": "/spotify-playlist/static/css/main.38743e92.css.map",
+    "main.4c243a58.js.map": "/spotify-playlist/static/js/main.4c243a58.js.map",
+    "787.370c659c.chunk.js.map": "/spotify-playlist/static/js/787.370c659c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80fc2a5d.css",
-    "static/js/main.c5c7c3ab.js"
+    "static/css/main.38743e92.css",
+    "static/js/main.4c243a58.js"
   ]
 }
